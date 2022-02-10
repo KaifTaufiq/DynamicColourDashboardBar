@@ -48,5 +48,5 @@ a7.addEventListener("click", () => {
     document.getElementById("log").value = "Wallets was Clicked"
 })
 a8.addEventListener("click", () => {
-    document.getElementById("log").value = "LOgout was Clicked"
+    document.getElementById("log").value = "Logout was Clicked"
 })
